@@ -7,41 +7,37 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Wenye Zhang
+    tagline: CS Graduate Student
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: alexzhang1994@cs.ucla.edu
+    phone: 424 298 7797
+    website: https://aceye1994.github.io/ #do not add http://
+    linkedin: Wenye Zhang
+    github: aceye1994
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars:  Leetcode
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /assets/pdf/Resume_Wenye_UCLA_CS.pdf
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Painting
         link:
 
-      - item: Snowboarding
+      - item: Calligraphy
         link:
 
       - item: Cooking
@@ -50,143 +46,121 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      First year master’s student in the Computer Science program at UCLA.
+      Business Modeling and Analysis with 3 years of experiences in data processing, algorithm, and Python program.
+      Familiar with multiple programming languages, including Java, Python, C, Matlab and 
+      diversified industry analytics tools, such as  SQL, Tableau, Excel, etc.
+
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of California, Los Angeles
+      time: 2021 - 2023 (expected)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        
+    - degree: MSc in Quantitative Finance
+      university: Shanghai Jiao Tong University
+      time: 2016 - 2018
+      details: CFA Awareness Scholarship, Graduate Excellence Scholarship
+
+    - degree: BSc in Mathematics
+      university: Shanghai Jiao Tong University
+      time: 2012 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Brand Manager
+      time: 2020 - 2021
+      company: AstraZeneca, Shanghai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Conducted commercial evaluation and developed business model on potential in-license assets, focus on Cardiovascular and Metabolism therapeutic areas
+        - Supported to speed up internal assets development plan and developed new product launch plan
+        - Developed annual strategy to enrich our offering with speed up R&D and screening promising in-license assets, deep dive in disease areas to explore opportunity to expand
+    - role: Associate / Associate Consultant
+      time: 2018 - 2020
+      company: ZS Associates, Shanghai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Led projects executive, focusing on topics with resources optimization, sales force optimization, forecast model, and market understanding on the healthcare market, for top multi-national corporations
+        - Led projects to program Python tools and implement machine learning algorithms for market size estimation, first internal tool to realize automated estimation with improved accuracy
+        - Developed new business rules and program Python tools for sales force alignment, first time to realize automated alignment and get to involve more thorough factors
+        - Automated data processing with Python/VBA and analyzed a large amount of real-world data via SQL
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: PupGo
+        link: "https://github.com/aceye1994/PupGo"
+        tagline: |
+          - An IOS APP for dog persons to connect and walk dogs together. 
+          - MVVM design pattern with Swift codes on creating & editing dog profile, swiping photos to meet dog buddies, exploring recommendation page on nearby events and requests responses."
 
-      - title: DevStudio
+      - title: NB-IoT Devices Support
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: |
+          - Enhancing Open-Source Core Networks to Support NB-IoT Devices;
+          - Implement CP CIoT Optimisation (Data-Over-NAS) in OpenAirInterface (in C language) core network;
+          - Setup an SDR-based testbed with USRP B210 boards and verified the code with COTS NB-IoT devices
 
-      - title: Tempo
+      - title: Detect Fake 4G/5G Base Stations
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: |
+          - Co-Design an algorithm to define with packet-pair at the application layer without accessing the firmware or infrastructure support;
+          - Implement a relay fake base station in SDR-based testbed with srsLTE 
 
-      - title: Atom
+      - title: Derivative Design and Hedging
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: |
+          - Designed a commodity-linked finance product with put and call options-embedded appealing to sound retail investors
+          - Pricing on numericdal solution to Stochastic Differential Equations and proved consistency
+          - Designed hedging strategy on the issuer side and proved effectiveness with MATLAB
 
-      - title: Delta
+      - title: Transformed PDFP
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: |
+          - Transformed PDFP for Partial Differential Equations
+          - Proved consistency and convergence of Primal-Dual Fixed-Point Algorithm (PDFP) for numerical solutions for PDEs
+          - Developed MATLAB codes to solve numerical solution, test algorithm performance, and showed robustness
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java & Excel
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: MATLAB
+        level: 85%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: SQL
+        level: 80%
+
+      - name: C/C++ 
+        level: 70%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

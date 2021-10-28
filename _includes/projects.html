@@ -28,8 +28,12 @@
       </span>
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <div class="tagline">
+      {{ project.tagline | markdownify }}
+      </div><!--//tagline-->
       {% endif %}
+
+
 
     </div><!--//item-->
   {% endfor %}
