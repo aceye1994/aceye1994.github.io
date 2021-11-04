@@ -106,6 +106,12 @@ projects:
         tagline: |
           - Co-Design an algorithm to define with packet-pair at the application layer without accessing the firmware or infrastructure support;
           - Implement a relay fake base station in SDR-based testbed with srsLTE 
+      
+      - title: Website Crawler 
+        link: "#"
+        tagline: |
+          - Programmed Python to develop a website crawler from scratch to get hospital information from a online heathcare platform;
+          - Utilized these public info to build a regression model for market size estimation
 
       - title: Derivative Design and Hedging
         link: "#"
