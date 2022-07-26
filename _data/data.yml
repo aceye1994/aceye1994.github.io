@@ -40,13 +40,13 @@ sidebar:
       - item: Calligraphy
         link:
 
-      - item: Cooking
+      - item: Hiking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      First year master’s student in the Computer Science program at UCLA.
+      (TODO) First year master’s student in the Computer Science program at UCLA.
       Business Modeling and Analysis with 3 years of experiences in data processing, algorithm, and Python program.
       Familiar with multiple programming languages, including Java, Python, C, Matlab and 
       diversified industry analytics tools, such as  SQL, Tableau, Excel, etc.
@@ -55,7 +55,7 @@ education:
     - degree: MSc in Computer Science
       university: University of California, Los Angeles
       time: 2021 - 2023 (expected)
-      details: |
+      details: GPA 3.93/4.0
         
     - degree: MSc in Quantitative Finance
       university: Shanghai Jiao Tong University
@@ -65,7 +65,7 @@ education:
     - degree: BSc in Mathematics
       university: Shanghai Jiao Tong University
       time: 2012 - 2016
-      details: |
+      details: Graduated with Honor, National Scholarship
         
 experiences:
     - role: Brand Manager
@@ -88,11 +88,12 @@ projects:
     title: Projects
     intro: 
     assignments:
-      - title: PupGo
-        link: "https://github.com/aceye1994/PupGo"
+      - title: PupGo 
+        link: "https://github.com/yclin99/PupGo"
         tagline: |
-          - An IOS APP for dog persons to connect and walk dogs together. 
-          - MVVM design pattern with Swift codes on creating & editing dog profile, swiping photos to meet dog buddies, exploring recommendation page on nearby events and requests responses."
+          - PupGo is an app designed for dogs to make friends, a dating app for doggy friends;
+          - Build with Go and SQL on backend, swift on UI, and GraphQL for data query and mutation; 
+          - Implement features including Friend Match, Event Creation and Exploration, Event Notification and Profile Setting
 
       - title: NB-IoT Devices Support
         link: "#"
@@ -156,6 +157,9 @@ skills:
       - name: Java
         level: 95%
 
+      - name: C/C++ 
+        level: 95%
+
       - name: Python
         level: 85%
 
@@ -165,8 +169,8 @@ skills:
       - name: SQL
         level: 80%
 
-      - name: C/C++ 
-        level: 70%
+      - name: html/css
+        level: 80%
 
       - name: Excel
         level: 100%
