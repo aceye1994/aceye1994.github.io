@@ -43,14 +43,11 @@ sidebar:
       - item: Hiking
         link:
 
-    courses:
-      - item: English
-        grade: Professional
 
 career-profile:
     title: Career Profile
     summary: |
-      (TODO) First year master’s student in the Computer Science program at UCLA.
+      First year master’s student in the Computer Science program at UCLA.
       Business Modeling and Analysis with 3 years of experiences in data processing, algorithm, and Python program.
       Familiar with multiple programming languages, including Java, Python, C, Matlab and 
       diversified industry analytics tools, such as  SQL, Tableau, Excel, etc.
@@ -59,7 +56,9 @@ education:
     - degree: MSc in Computer Science
       university: University of California, Los Angeles
       time: 2021 - 2023 (expected)
-      details: GPA 3.93/4.0
+      details: |
+      - GPA 3.93/4.0
+      - Courses:
         
     - degree: MSc in Quantitative Finance
       university: Shanghai Jiao Tong University
