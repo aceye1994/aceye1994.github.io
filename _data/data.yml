@@ -43,6 +43,10 @@ sidebar:
       - item: Hiking
         link:
 
+    courses:
+      - item: English
+        grade: Professional
+
 career-profile:
     title: Career Profile
     summary: |
@@ -174,6 +178,9 @@ skills:
 
       - name: Excel
         level: 100%
+
+Courses:
+
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
