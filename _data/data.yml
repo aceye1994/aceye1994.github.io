@@ -56,7 +56,8 @@ education:
     - degree: MSc in Computer Science
       university: University of California, Los Angeles
       time: 2021 - 2023 (expected)
-      details: GPA 3.93/4.0
+      details: GPA 3.93/4.0, 
+      courses: Computer Systems Architecture(A+)，Cryptographic Protocols(A), Network Protocol for Wireless(A), Network Fundamentals(A), Artificial Intelligence(A), Bioinformatics(A)
         
     - degree: MSc in Quantitative Finance
       university: Shanghai Jiao Tong University
@@ -69,6 +70,12 @@ education:
       details: Graduated with Honor, National Scholarship
         
 experiences:
+    - role: SDE summer intern
+      time: 2022.6 - 2022.9
+      company: Amazon, Seattle
+      details: |
+        - Designed and implemented tools to generate dashboard and monitors for 1.5 million FireTV devices when over the air version is on board
+        - Build with Java on backend and intergrate functionalities with bash script to provide user with command line interfaces to create dashboard and alarms for health metrics
     - role: Brand Manager
       time: 2020 - 2021
       company: AstraZeneca, Shanghai
@@ -89,6 +96,12 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: Overcharging attacks against 5G/4G mobile devices
+        link: "#"
+        tagline: |
+          - Co-designed algorithms to launch overcharging attacks against mobile devices with ICMP manipulation and 5G/4G protocol vulnerabilities
+          - Wrote prototype on Android with NDK and raw socket to validate the idea under 4 major US operators
+
       - title: PupGo 
         link: "https://github.com/yclin99/PupGo"
         tagline: |
