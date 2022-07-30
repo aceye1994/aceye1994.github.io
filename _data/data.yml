@@ -47,9 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      First year master’s student in the Computer Science program at UCLA.
+      Master’s student in the Computer Science program at UCLA. Software engineering development intern at Amazon to develop
+      solutions for the monitoring system of the voice middleware in the devices.
       Business Modeling and Analysis with 3 years of experiences in data processing, algorithm, and Python program.
-      Familiar with multiple programming languages, including Java, Python, C, Matlab and 
+      Familiar with multiple programming languages, including Java, Python, C/C++, Bash, MATLAB and 
       diversified industry analytics tools, such as  SQL, Tableau, Excel, etc.
 
 education:
@@ -74,8 +75,11 @@ experiences:
       time: 2022.6 - 2022.9
       company: Amazon, Seattle
       details: |
-        - Designed and implemented tools to generate dashboard and monitors for 1.5 million FireTV devices when over the air version is on board
-        - Build with Java on backend and intergrate functionalities with bash script to provide user with command line interfaces to create dashboard and alarms for health metrics
+        - Worked on solutions to monitor the Over The Air (OTA) process for the voice middleware in more than 1.5 million devices
+        - Designed and implemented tools to generate dashboard and alarms for identified health metrics to monitor OTA health status
+        - Read over product architecture, researched on avaiable services and initiated a design plan on an automatic OTA monitor tool
+        - Built with Java on backend and intergrated functionalities with the shell scripts to provide the user with command line interfaces (CLI) to create dashboard and alarms for OTA health metrics
+        - Integrated the tool with the voice middleware shipping pipeline to realize full automation
     - role: Brand Manager
       time: 2020 - 2021
       company: AstraZeneca, Shanghai
@@ -175,6 +179,9 @@ skills:
         level: 95%
 
       - name: Python
+        level: 85%
+
+      - name: Bash
         level: 85%
 
       - name: MATLAB
