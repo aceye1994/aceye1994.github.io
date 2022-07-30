@@ -50,8 +50,7 @@ career-profile:
       Master’s student in the Computer Science program at UCLA. Software engineering development intern at Amazon to develop
       solutions for the monitoring system of the voice middleware in the devices.
       Business Modeling and Analysis with 3 years of experiences in data processing, algorithm, and Python program.
-      Familiar with multiple programming languages, including Java, Python, C/C++, Bash, MATLAB and 
-      diversified industry analytics tools, such as  SQL, Tableau, Excel, etc.
+      Familiar with multiple programming languages, including Java, Python, C/C++, Bash, MATLAB.
 
 education:
     - degree: MSc in Computer Science
@@ -93,7 +92,7 @@ experiences:
         - Led projects to program Python tools and implement AI algorithms for medical market size estimation, first internal high-quality tool for automated estimation on large-scale data; improved accuracy by 40%
         - Developed new business rules and programmed Python tools for sales force alignment with global teams, first time to realize automated alignment to increase customer user coverage by 31%
         - Automated high-volume data process with Python/VBA; analyzed large amount real world data via SQL
-        - Implemented CatBoost algorithm for market estimation of primary care institutions\\
+        - Implemented CatBoost algorithm for market estimation of primary care institutions
 
 projects:
     title: Projects
