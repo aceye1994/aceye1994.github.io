@@ -1,0 +1,24 @@
+{% assign courses = site.data.data.courses %}
+{% if courses %}
+<div class="courses-container container-block">
+
+  <h2 class="container-block-title">
+    courses
+  </h2>
+
+  <ul class="list-unstyled courses-list">
+    {% for course in courses %}
+
+      
+      <li>{{ course.item }}</li>
+      <li>
+      {{ course.item }}
+      <span class="course-desc">({{ course.grade }})</span>
+    </li>
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
+{% endif %}
