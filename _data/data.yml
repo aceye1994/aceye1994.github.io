@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Wenye Zhang
-    tagline: CS Graduate Student
+    tagline: Software Development Engineer
     avatar: Profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: alexzhang1994@cs.ucla.edu
+    email: wenyez988@gmail.com
     phone: 424 298 7797
     website: https://aceye1994.github.io/ #do not add http://
     linkedin: Wenye Zhang
@@ -47,16 +47,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Master’s student in the Computer Science program at UCLA. Software engineering development intern at Amazon to develop
-      solutions for the monitoring system of the voice middleware in the devices.
-      Business Modeling and Analysis with 3 years of experiences in data processing, algorithm, and Python program.
-      Familiar with multiple programming languages, including Java, Python, C/C++, Bash, MATLAB.
+      Experienced Software Development Engineer at AWS with two years of expertise in CloudFormation. I lead resource migration, framework security enhancements, and test automation to strengthen platform security and streamline customer onboarding. Passionate about scalable infrastructure, I build resilient solutions that enhance customer experience and AWS service integrations.
 
 education:
     - degree: MSc in Computer Science
       university: University of California, Los Angeles
-      time: 2021 - 2023 (expected)
-      details: GPA 3.8/4.0, 
+      time: 2021 - 2023
       courses: Computer Systems Architecture(A+)，Cryptographic Protocols(A), Network Protocol for Wireless(A), Network Fundamentals(A), Artificial Intelligence(A), Bioinformatics(A)
         
     - degree: MSc in Quantitative Finance
@@ -70,6 +66,16 @@ education:
       details: Graduated with Honor, National Scholarship
         
 experiences:
+    - role: Software Development Engineer
+      time: 2023.5 - Present
+      company: Amazon Web Service, Seattle
+      details: |
+        - Led the development and release of the 100% Coverage Map, a brand-new structure for CloudFormation’s Contract Test framework, increasing test coverage from 50% to 100%, and reducing execution time by 43%
+        - Led the full lifecycle development of the Tagging Security Test Suite, identifying 100+ tagging issues and eliminating potential tagging errors in new resource types, enhancing security
+        - Managed the end-to-end migration of critical AppConfig and EC2 resources to Uluru (Awarded Brilliant Beginner, Award of Appreciation from Infrastructure as code)
+        - Designed and launched the Insight Report, the front-end of Contract Test, reducing Sev2 debug tickets from 5 per week to nearly 0
+        - Resolved operational issues in CloudFormation, including eliminating throttling issues in testing, and reduced deployment time by 67%
+
     - role: SDE summer intern
       time: 2022.6 - 2022.9
       company: Amazon, Seattle
@@ -78,6 +84,7 @@ experiences:
         - Read over product architecture, researched on available services and independently worked on the design plan on an automatic OTA monitor tool
         - Built with Java on backend and integrated functionalities with the shell scripts to provide the user with command line interfaces (CLI) to create dashboard and alarms for OTA health metrics
         - Integrated the tool with the voice middleware shipping pipeline to realize full automation
+
     - role: Brand Manager
       time: 2020 - 2021
       company: AstraZeneca, Shanghai
@@ -85,6 +92,7 @@ experiences:
         - Conducted commercial evaluation and developed business model on potential in-license assets, focus on Cardiovascular and Metabolism therapeutic areas
         - Supported to speed up internal assets development plan and developed new product launch plan
         - Developed annual strategy to enrich our offering with speed up R&D and screening promising in-license assets, deep dive in disease areas to explore opportunity to expand
+
     - role: Associate / Associate Consultant
       time: 2018 - 2020
       company: ZS Associates, Shanghai
@@ -95,7 +103,7 @@ experiences:
         - Implemented CatBoost algorithm for market estimation of primary care institutions
 
 projects:
-    title: Projects
+    title: Research/Course Projects
     intro: 
     assignments:
       - title: SIM-based Local Failure Diagnoses 
@@ -184,14 +192,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java
-        level: 95%
+      - name: Java/Kotlin
+        level: 100%
+
+      - name: Python
+        level: 100%
 
       - name: C/C++ 
         level: 95%
 
-      - name: Python
-        level: 85%
+      - name: Ruby 
+        level: 90%
 
       - name: Bash
         level: 85%
