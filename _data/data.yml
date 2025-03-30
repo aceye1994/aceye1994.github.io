@@ -67,7 +67,7 @@ education:
         
 experiences:
     - role: Software Development Engineer
-      time: 2023.5 - Present
+      time: 2023 - Present
       company: Amazon Web Service, Seattle
       details: |
         - Led the development and release of the 100% Coverage Map, a groundbreaking structure for CloudFormation’s Contract Test framework, increasing contract coverage from 50% to 100%, and reducing execution time by 43%
