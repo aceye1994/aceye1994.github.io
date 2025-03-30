@@ -70,11 +70,11 @@ experiences:
       time: 2023.5 - Present
       company: Amazon Web Service, Seattle
       details: |
-        - Led the development and release of the 100% Coverage Map, a brand-new structure for CloudFormation’s Contract Test framework, increasing test coverage from 50% to 100%, and reducing execution time by 43%
-        - Led the full lifecycle development of the Tagging Security Test Suite, identifying 100+ tagging issues and eliminating potential tagging errors in new resource types, enhancing security
-        - Managed the end-to-end migration of critical AppConfig and EC2 resources to Uluru (Awarded Brilliant Beginner, Award of Appreciation from Infrastructure as code)
-        - Designed and launched the Insight Report, the front-end of Contract Test, reducing Sev2 debug tickets from 5 per week to nearly 0
-        - Resolved operational issues in CloudFormation, including eliminating throttling issues in testing, and reduced deployment time by 67%
+        - Led the development and release of the 100% Coverage Map, a groundbreaking structure for CloudFormation’s Contract Test framework, increasing contract coverage from 50% to 100%, and reducing execution time by 43%
+        - Led the full lifecycle development of the Tagging Security Test Suite, identifying 100+ tagging issues and eliminating future tagging errors in new resource types
+        - Drove the end-to-end migration of critical AppConfig and EC2 resources to CloudFormation Registry (Awarded Brilliant Beginner, Award of Appreciation from Infrastructure as code)
+        - Designed and launched the Insight Report, the front-end of Contract Test, cutting severe operational requests from 5 per week to nearly zero
+        - Resolved key operational issues in CloudFormation, including eliminating throttling, timeout issues, and reduced deployment time by 67%
 
     - role: SDE summer intern
       time: 2022.6 - 2022.9
